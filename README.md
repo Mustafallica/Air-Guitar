@@ -3,5 +3,7 @@ An air guitar using javascript. I used a library called handtrack.js that will g
 
 ***To test it: https://github.com/Mustafallica/Air-Guitar***
 
+***Handtrack.js library: https://github.com/victordibia/handtrack.js***
+
 
 ![picture alt](https://serving.photos.photobox.com/05384282b89ecb6171e470d25a2b044b7cbd83598ee00bc086d2751a3a1f00f8f421ce38.jpg)
